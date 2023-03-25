@@ -23,6 +23,16 @@ namespace JupiterX.Controllers
             return View();
         }
 
+        public IActionResult Public()
+        {
+            return View();
+        }
+
+        public IActionResult FormManagement()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
