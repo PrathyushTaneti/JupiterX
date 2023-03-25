@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "JupiterX": {
+    "Kestrel": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
